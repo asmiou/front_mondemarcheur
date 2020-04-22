@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mondemarcheur"
+    }
+  },
+  "defaultProject": "mondemarcheur",
+  "cli": {
+    "analytics": "b74e01c9-1e1e-404d-9bdd-5fe8beda396e"
+  }
 }
